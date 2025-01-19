@@ -1,0 +1,7 @@
+Bus id:001
+From: CTGs
+Destination: Dhaka
+Bus seats:40
+Price: 350.00
+Departure Time: 10
+Arrival Time:3.20
